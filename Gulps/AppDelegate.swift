@@ -99,8 +99,8 @@ class AppDelegate: UIResponder, UIApplicationDelegate, WCSessionDelegate {
   // MARK: - 3D Touch shortcut
 
   enum ShortcutType: String {
-    case Big = "it.fancypixel.gulps.big"
-    case Small = "it.fancypixel.gulps.small"
+    case Big = "io.gamu.gulps.big"
+    case Small = "io.gamu.gulps.small"
   }
 
   func application(_ application: UIApplication, performActionFor shortcutItem: UIApplicationShortcutItem, completionHandler: @escaping (Bool) -> Void) {

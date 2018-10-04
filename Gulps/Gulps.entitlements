@@ -4,9 +4,11 @@
 <dict>
 	<key>com.apple.developer.healthkit</key>
 	<true/>
+	<key>com.apple.developer.healthkit.access</key>
+	<array/>
 	<key>com.apple.security.application-groups</key>
 	<array>
-		<string>group.it.fancypixel.BigGulp</string>
+		<string>group.io.gamu.GulpGroup</string>
 	</array>
 </dict>
 </plist>

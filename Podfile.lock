@@ -18,11 +18,11 @@ PODS:
     - Nimble (~> 7.0)
   - pop (1.0.10)
   - Quick (1.2.0)
-  - Realm (3.1.0):
-    - Realm/Headers (= 3.1.0)
-  - Realm/Headers (3.1.0)
-  - RealmSwift (3.1.0):
-    - Realm (= 3.1.0)
+  - Realm (3.10.0):
+    - Realm/Headers (= 3.10.0)
+  - Realm/Headers (3.10.0)
+  - RealmSwift (3.10.0):
+    - Realm (= 3.10.0)
   - Reveal-SDK (13)
   - UICountingLabel (1.4.1)
 
@@ -42,6 +42,24 @@ DEPENDENCIES:
   - Reveal-SDK
   - UICountingLabel (~> 1.2)
 
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - AHKActionSheet
+    - AMPopTip
+    - AMWaveTransition
+    - BAFluidView
+    - BubbleTransition
+    - CVCalendar
+    - FBSnapshotTestCase
+    - Nimble
+    - Nimble-Snapshots
+    - pop
+    - Quick
+    - Realm
+    - RealmSwift
+    - Reveal-SDK
+    - UICountingLabel
+
 SPEC CHECKSUMS:
   AHKActionSheet: f0b312b5c689f72924d231c39dae140ecd5c1d46
   AMPopTip: 0eba2f6fe939ca06f1ba5c5db1f0d0d10f4a758a
@@ -54,11 +72,11 @@ SPEC CHECKSUMS:
   Nimble-Snapshots: f5459b5b091678dc942d03ec4741cacb58ba4a52
   pop: 82ca6b068ce9278fd350fd9dd09482a0ce9492e6
   Quick: 58d203b1c5e27fff7229c4c1ae445ad7069a7a08
-  Realm: 09513d7c054678d65cd02ce09871f805b0d758ac
-  RealmSwift: e868fee9b10e5490ad94b6b6ecd9027944da1824
+  Realm: 85ab9e4f779d66f6e9ffeb118dc25b7f130c96ac
+  RealmSwift: 69121c8b86d0ae005fb779efdb10e606732e1c74
   Reveal-SDK: ccc2b0f8014965ea448b7534a7c2c8da232b75e8
   UICountingLabel: faf890b505d96312e324a86718f031fafffb0ccb
 
 PODFILE CHECKSUM: dcfe721514b02ede29cf1bcac966ad46f6b3135c
 
-COCOAPODS: 1.4.0
+COCOAPODS: 1.5.3
